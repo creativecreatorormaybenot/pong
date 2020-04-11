@@ -19,8 +19,6 @@ webdev serve
 
 Now, you can view the animation in your browser at `http://127.0.0.1:8080`.
 
-[//]: # (comment)
-
 [main]: https://github.com/creativecreatorormaybenot/pong/blob/master/lib/main.dart
 [demo]: https://i.imgur.com/bMEaMU8.mp4
 [explained here]: https://github.com/flutter/flutter_web#getting-stateless-hot-reload-with-webdev
